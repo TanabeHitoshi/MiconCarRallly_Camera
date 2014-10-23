@@ -1,0 +1,23 @@
+[HIMDBVersion]
+2.0
+[DATABASE_VERSION]
+"1.2" 
+[CURRENT_PROJECT]
+"kit07_38a" 
+[GENERAL_DATA]
+[BREAKPOINTS]
+[OPEN_WORKSPACE_FILES]
+"E:\program\2014\kit07_38aCamera_kMCR\kit07_38a\drive.h" 
+"E:\program\2014\kit07_38aCamera_kMCR\kit07_38a\isCamera.c" 
+"E:\program\2014\kit07_38aCamera_kMCR\kit07_38a\isCamera.h" 
+"E:\program\2014\kit07_38aCamera_kMCR\kit07_38a\kit07_38a.c" 
+"E:\program\2014\kit07_38aCamera_kMCR\kit07_38a\LcdProcess.c" 
+[WORKSPACE_FILE_STATES]
+"E:\program\2014\kit07_38aCamera_kMCR\kit07_38a\LcdProcess.c" 66 87 928 386 0 4 
+"E:\program\2014\kit07_38aCamera_kMCR\kit07_38a\drive.h" 110 145 928 386 0 1 
+"E:\program\2014\kit07_38aCamera_kMCR\kit07_38a\isCamera.c" 132 174 928 386 0 2 
+"E:\program\2014\kit07_38aCamera_kMCR\kit07_38a\isCamera.h" -4 -30 1068 594 1 3 
+"E:\program\2014\kit07_38aCamera_kMCR\kit07_38a\kit07_38a.c" 88 116 924 382 0 0 
+[LOADED_PROJECTS]
+"kit07_38a" 
+[END]
